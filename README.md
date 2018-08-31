@@ -1,4 +1,4 @@
-# Eat-Da-Burger-
+# Eat-Da-Burger
 #### App Setup
 
 1. Create a GitHub repo called `burger` and clone it to your computer.
