@@ -150,3 +150,6 @@ All the recommended files and directories from the steps above should look like 
     └── layouts
         └── main.handlebars
 ```
+
+# Run instructions
+  * In your terminal navigate to the directory of the server file for your project and isntall `npm install` before running `node server.js`. Browse to `http://localhost:3000/`. Enjoy!
